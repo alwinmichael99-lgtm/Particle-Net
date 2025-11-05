@@ -2,7 +2,7 @@
 import numpy as np
 import pandas as pd
 import uproot
-import matplotlib.pyplot as pl
+import matplotlib.pyplot as p
 
 # %%
 from sklearn.model_selection import train_test_split
